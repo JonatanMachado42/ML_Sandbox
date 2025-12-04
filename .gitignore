@@ -1,3 +1,19 @@
+# --- PYTHON BASICS --- 
 .venv/
 __pycache__/
 *.pyc
+
+
+# --- DADOS (CRUCIAL: Nunca suba CSVs grandes) ---
+data/
+*.csv
+*.xlsx
+*.json
+
+# --- MODELOS TREINADOS (Pesados demais para o Git comum) ---
+*.pkl
+*.pth
+*.pt
+*.h5
+models/
+src/models/saved/
