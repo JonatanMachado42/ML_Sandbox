@@ -35,9 +35,9 @@ ai-studies/
 
 *Foco: Entender distâncias vetoriais e como medir sucesso.*
 
-- [ ] **Engenharia de Software**
+- [X] **Engenharia de Software**
   
-  - [ ] Configurar ambiente (venv), Git e instalar `black` (linter) e `pytest`.
+  - [X] Configurar ambiente (venv), Git e instalar `black` (linter) e `pytest`.
     
   - [X] Criar estrutura de pastas.
     
@@ -45,7 +45,7 @@ ai-studies/
   
   - [X] Criar classe `KNNClassifier` em `src/models/knn.py`.
     
-  - [ X Implementar `.fit(X, y)` (Apenas armazena dados).
+  - [X] Implementar `.fit(X, y)` (Apenas armazena dados).
     
   - [X] Implementar `.predict(X)` usando **Broadcasting do NumPy** para calcular Distância Euclidiana ($\sqrt{\sum(x-y)^2}$) sem loops `for`.
     
