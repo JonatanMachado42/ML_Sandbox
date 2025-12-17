@@ -51,7 +51,7 @@ ai-studies/
     
 - [ ] **Métricas (Do Zero)**
   
-  - [ ] Implementar `accuracy_score`.
+  - [X] Implementar `accuracy_score`.
     
   - [ ] Implementar `confusion_matrix` (Entender TP, TN, FP, FN).
     
